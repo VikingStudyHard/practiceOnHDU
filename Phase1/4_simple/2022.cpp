@@ -1,4 +1,5 @@
 #include <iostream>
+<<<<<<< HEAD
 #include <cstdio>
 using namespace std;
 
@@ -28,4 +29,11 @@ int main(){
 		printf("%d %d %d\n",m+1,n+1,max);
 	}
 	return 0;
+=======
+using namespace std;
+
+int main(){
+	int x,y;
+	int a[][];
+>>>>>>> 9933c333a78fe1cfb5f0374252ade463d07e2cef
 }
